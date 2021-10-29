@@ -1,5 +1,3 @@
-# fun with triangles
- 
-querySelectorAll
+make display: block to not elements fall in different lines.
 
-How to use radio button
+Here we also did some typecasting using Number(string) and also learned about querySelectorAll in order to select all classes at once and that too as an array.
